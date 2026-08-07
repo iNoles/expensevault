@@ -45,6 +45,9 @@ A modern offline‑first expense tracker built with Flutter and Riverpod, featur
 
 ## Screenshots
 Add your screenshots here:
+![Dashboard](images/dashboard.png)
+![Receipts](images/receipts.png)
+![Charts](images/charts.png)
 
 ## Tech Stack
 - Flutter (Material 3)
