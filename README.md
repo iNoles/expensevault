@@ -1,6 +1,15 @@
 # expensevault
 A modern offline‑first expense tracker built with Flutter and Riverpod, featuring an expressive Material 3 design, adaptive layouts, and instant performance.
 
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2)
+![Riverpod](https://img.shields.io/badge/Riverpod-3.x-4CAF50)
+![Material 3](https://img.shields.io/badge/Material%203-Design-orange)
+![Hive](https://img.shields.io/badge/Hive-Local%20Storage-yellow)
+![ML Kit OCR](https://img.shields.io/badge/ML%20Kit-OCR-blueviolet)
+![Platforms](https://img.shields.io/badge/Platforms-Android%20%7C%20iOS%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-purple)
+![License](https://img.shields.io/badge/License-GPL--3.0-lightgrey)
+
 ## Features
 ### Smart Dashboard
 - Monthly spending summary
